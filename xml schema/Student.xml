@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Student.xslt"?>
+<lophoc>
+	<sinhvien>
+		<hoten>Din</hoten>
+		
+		<diachi>Dinkar</diachi>
+		<diem>85</diem>
+		<diemHK>
+			<lan1>4</lan1>
+			<lan2>6</lan2>
+		</diemHK>
+	</sinhvien>
+	
+	<sinhvien >
+		<hoten>Van</hoten>
+		
+		<diachi>Vinni</diachi>
+		<diem>95</diem>
+		<diemHK>
+			<lan1>4</lan1>
+			<lan2>6</lan2>
+		</diemHK>
+	</sinhvien>
+	
+	<sinhvien >
+		<hoten>Din</hoten>
+		
+		<diachi>Dinkar</diachi>
+		<diem>85</diem>
+		<diemHK>
+			<lan1>4</lan1>
+			<lan2>6</lan2>
+		</diemHK>
+	</sinhvien>
+</lophoc>

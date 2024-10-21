@@ -1,0 +1,11 @@
+﻿<contact xmlns="http://tempuri.org/VD2.xsd">
+	<name>
+		<firstname>Duong</firstname>
+		<lastname>Tu</lastname>
+	</name>
+	<tel>1234567890</tel>
+	<address>haNoi</address>
+	<email>abc@gmail.com</email>
+	<age>50</age>
+	<gender>male</gender>
+</contact>

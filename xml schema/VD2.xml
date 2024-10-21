@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contact xmlns="http://tempuri.org/VD2.xsd">
+	<name>
+		<firstname>Duong</firstname>
+		<lastname>a</lastname>
+	</name>
+	<tel>2346237999</tel>
+	<address>sdasd</address>
+	<email>djkashd</email>
+	<age>10</age>
+	<gender>male</gender>
+	
+</contact>

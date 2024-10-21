@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<kqht>
+	<tieude>Bang ket qua hoc tap</tieude>
+	<namhoc nam="2009">
+		<lop malop="2009" gvcn="Linh">
+			<sv hoten="Nguyen Viet Duc" ngaysinh="5-3-1997">
+				<monhoc>
+					<mon stt="1" tenmon="toan">
+						<diem>
+							<lan1>5</lan1>
+							<lan2>6</lan2>
+							<canam>8</canam>
+						</diem>
+					</mon>
+					<mon stt="2" tenmon="van">
+						<diem>
+							<lan1>7</lan1>
+							<lan2>8</lan2>
+							<canam>4</canam>
+						</diem>
+					</mon>
+					<mon stt="3" tenmon="ngoaingu">
+						<diem>
+							<lan1>3</lan1>
+							<lan2>5</lan2>
+							<canam>5</canam>
+						</diem>
+					</mon>
+					<tongket>
+						<diem>
+							<lan1>3</lan1>
+							<lan2>5</lan2>
+							<canam>5</canam>
+						</diem>
+					</tongket>
+				</monhoc>
+				<xeploai>
+					<hocluc>TB</hocluc>
+					<hanhkiem>Kha</hanhkiem>
+				</xeploai>
+			</sv>
+		</lop>
+	</namhoc>
+</kqht>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\xml schema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\company.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:company.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\company.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:company.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\student1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:student1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\student1.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:student1.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Company.xml",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\Company.xml",
+              "RelativeDocumentMoniker": "Company.xml",
+              "ToolTip": "D:\\Study Project\\xml schema\\Company.xml",
+              "RelativeToolTip": "Company.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-15T15:38:41.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.xsd",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\Company.xsd",
+              "RelativeDocumentMoniker": "Company.xsd",
+              "ToolTip": "D:\\Study Project\\xml schema\\Company.xsd",
+              "RelativeToolTip": "Company.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-15T15:26:59.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student1.xml",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\Student1.xml",
+              "RelativeDocumentMoniker": "Student1.xml",
+              "ToolTip": "D:\\Study Project\\xml schema\\Student1.xml",
+              "RelativeToolTip": "Student1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-15T15:21:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student1.xsd",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\Student1.xsd",
+              "RelativeDocumentMoniker": "Student1.xsd",
+              "ToolTip": "D:\\Study Project\\xml schema\\Student1.xsd",
+              "RelativeToolTip": "Student1.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-15T15:04:38.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

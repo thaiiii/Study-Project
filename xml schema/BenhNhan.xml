@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xml" href="BenhNhan.xslt"?>
+
+<BenhVien xmlns="http://tempuri.org/BenhNhan.xsd">
+	<Khoa>
+		<TenKhoa>abc</TenKhoa>
+		<TenTruongKhoa>abcc</TenTruongKhoa>
+		<PhongDieuTri>
+			<BenhNhan MaBenhNhan="abc">
+				<HoTen>abc</HoTen>
+				<DiaChi>xyz</DiaChi>
+				<SDT>2371289</SDT>
+				<NgayNhapVien>2024-10-10</NgayNhapVien>
+				<SoNgay>10</SoNgay>
+			</BenhNhan>
+			<BenhNhan MaBenhNhan="abc">
+				<HoTen>abc</HoTen>
+				<DiaChi>xyz</DiaChi>
+				<SDT>2371289</SDT>
+				<NgayNhapVien>2024-10-10</NgayNhapVien>
+				<SoNgay>10</SoNgay>
+			</BenhNhan>
+		</PhongDieuTri>
+	</Khoa>
+
+	<Khoa>
+		<TenKhoa>xyz</TenKhoa>
+		<TenTruongKhoa>abcc</TenTruongKhoa>
+		<PhongDieuTri>
+			<BenhNhan MaBenhNhan="abc">
+				<HoTen>abc</HoTen>
+				<DiaChi>xyz</DiaChi>
+				<SDT>2371289</SDT>
+				<NgayNhapVien>2024-10-10</NgayNhapVien>
+				<SoNgay>10</SoNgay>
+			</BenhNhan>
+			<BenhNhan MaBenhNhan="abc">
+				<HoTen>abc</HoTen>
+				<DiaChi>xyz</DiaChi>
+				<SDT>2371289</SDT>
+				<NgayNhapVien>2024-10-10</NgayNhapVien>
+				<SoNgay>10</SoNgay>
+			</BenhNhan>
+		</PhongDieuTri>
+	</Khoa>
+</BenhVien>

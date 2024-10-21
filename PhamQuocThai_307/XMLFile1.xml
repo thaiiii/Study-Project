@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS>
+	<HoaDon>
+		<MaHD> HD1 </MaHD>
+		<NgayBan> 2015-11-09 </NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+
+	<HoaDon>
+		<MaHD> HD2 </MaHD>
+		<NgayBan> 2015-11-09 </NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H2">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+			<Hang MaHang="H3">
+				<TenHang>Ti Vi </TenHang>
+				<SoLuong> 60 </SoLuong>
+				<DonViTinh>Chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+
+</DS>

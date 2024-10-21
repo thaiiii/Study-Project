@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BenhNhan"
+    targetNamespace="http://tempuri.org/BenhNhan.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:mstns="http://tempuri.org/BenhNhan.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="maType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z0-9]{3}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:element name="BenhVien">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Khoa" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="TenKhoa" type="xs:string"></xs:element>
+							<xs:element name="TenTruongKhoa" type="xs:string"></xs:element>
+							<xs:element name="PhongDieuTri">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="BenhNhan" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="HoTen" type="xs:string"></xs:element>
+													<xs:element name="DiaChi" type="xs:string"></xs:element>
+													<xs:element name="SDT" type="xs:string"></xs:element>
+													<xs:element name="NgayNhapVien" type="xs:date"></xs:element>
+													<xs:element name="SoNgay" type="xs:int"></xs:element>
+												</xs:sequence>
+												<xs:attribute name="MaBenhNhan" type="maType"></xs:attribute>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+</xs:schema>

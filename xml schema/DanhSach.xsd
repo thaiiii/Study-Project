@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DanhSach"
+    targetNamespace="http://tempuri.org/DanhSach.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/DanhSach.xsd"
+    xmlns:mstns="http://tempuri.org/DanhSach.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+	<xs:simpleType name="MaType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="[a-zA-Z0-9]{1,6}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="DonViType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Goi"/>
+			<xs:enumeration value="Hop"/>
+			<xs:enumeration value="Chiec"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="DonGiaType">
+		<xs:restriction base="xs:long">
+			<xs:minInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<!-- ComplexType -->
+	<xs:complexType name="HangType" >
+		<xs:sequence>
+			<xs:element name="TenHang" type="xs:string"/>
+			<xs:element name="SoLuong" type="xs:int"/>
+			<xs:element name="DonViTinh" type="DonViType"/>
+			<xs:element name="DonGia" type="DonGiaType"/>
+		</xs:sequence>
+		<xs:attribute name="MaHang" type="MaType" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="LoaiHangType">
+		<xs:sequence>
+			<xs:element name="Hang" type="HangType" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute name="MaLoai" type="MaType" use="required"/>
+		<xs:attribute name="TenLoai" type="xs:string" use="required"/>
+	</xs:complexType>
+
+	<xs:complexType name="HoaDonType">
+		<xs:sequence>
+			<xs:element name="MaHD" type="MaType"/>
+			<xs:element name="NgayBan" type="xs:date"/>
+			<!-- Limit the number of LoaiHang elements to 10 -->
+			<xs:element name="LoaiHang" type="LoaiHangType" maxOccurs="10"/>
+		</xs:sequence>
+	</xs:complexType>
+
+	<!-- Root element DS with complex structure for HoaDon -->
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<!-- Allow multiple HoaDon elements -->
+				<xs:element name="HoaDon" type="HoaDonType" maxOccurs="4"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+</xs:schema>

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\xml schema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\benhnhan.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:benhnhan.xslt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:benhnhan.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|d:\\study project\\xml schema\\benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C8ADA5F-3A79-4F8E-9591-E9A700D42091}|xml schema.csproj|solutionrelative:benhnhan.xsd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BenhNhan.xsd",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\BenhNhan.xsd",
+              "RelativeDocumentMoniker": "BenhNhan.xsd",
+              "ToolTip": "D:\\Study Project\\xml schema\\BenhNhan.xsd",
+              "RelativeToolTip": "BenhNhan.xsd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-10-15T13:37:08.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BenhNhan.xslt",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\BenhNhan.xslt",
+              "RelativeDocumentMoniker": "BenhNhan.xslt",
+              "ToolTip": "D:\\Study Project\\xml schema\\BenhNhan.xslt",
+              "RelativeToolTip": "BenhNhan.xslt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003586|",
+              "WhenOpened": "2024-10-15T13:49:37.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BenhNhan.xml",
+              "DocumentMoniker": "D:\\Study Project\\xml schema\\BenhNhan.xml",
+              "RelativeDocumentMoniker": "BenhNhan.xml",
+              "ToolTip": "D:\\Study Project\\xml schema\\BenhNhan.xml",
+              "RelativeToolTip": "BenhNhan.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-15T13:37:03.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

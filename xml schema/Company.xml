@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<company xmlns="http://tempuri.org/Company.xsd">
+	<employee id="E11" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+	<employee id="E00" gender="male">
+		<name>A Van C</name>
+		<userid>A000001</userid>
+		<phone>111-111-1111</phone>
+		<salary>2000</salary>
+		<address>Hanoi</address>
+	</employee>
+
+
+</company>
