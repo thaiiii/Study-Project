@@ -1,0 +1,87 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Form</title>
+    <style>
+        table {
+            width: 50%;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+        td {
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        input[type="text"], input[type="date"], select {
+            width: 100%;
+            padding: 5px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            border: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+    <form method="post" action="/Employee/Create">
+        <table>
+            <tr>
+                <td>Mã nhân viên:</td>
+                <td><input type="text" name="employeeId" /></td>
+            </tr>
+            <tr>
+                <td>Họ tên:</td>
+                <td><input type="text" name="fullName" /></td>
+            </tr>
+            <tr>
+                <td>Ngày sinh:</td>
+                <td><input type="date" name="dateOfBirth" /></td>
+            </tr>
+            <tr>
+                <td>Giới tính:</td>
+                <td>
+                    <input type="radio" name="gender" value="Nam" /> Nam
+                    <input type="radio" name="gender" value="Nữ" /> Nữ
+                </td>
+            </tr>
+            <tr>
+                <td>Chức vụ:</td>
+                <td>
+                    <select name="position">
+                        <option value="Nhân viên">Nhân viên</option>
+                        <option value="Trưởng phòng">Trưởng phòng</option>
+                        <option value="Giám đốc">Giám đốc</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>Ngoại ngữ:</td>
+                <td>
+                    <input type="checkbox" name="languages" value="Anh" /> Anh
+                    <input type="checkbox" name="languages" value="Pháp" /> Pháp
+                    <input type="checkbox" name="languages" value="Nga" /> Nga
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center;">
+                    <input type="submit" value="LƯU" class="btn" />
+                    <input type="reset" value="XÓA" class="btn" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+

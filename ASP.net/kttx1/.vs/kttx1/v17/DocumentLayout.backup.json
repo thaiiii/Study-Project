@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\kttx1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\hello\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:15:44.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "kttx1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "kttx1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:15:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "kttx1\\Controllers\\HelloController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "kttx1\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:15:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\Hello\\Index.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\Hello\\Index.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\Hello\\Index.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\Hello\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:53:15.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
