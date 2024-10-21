@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\kttx1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\nhapdiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\nhapdiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\controllers\\nhapdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\controllers\\nhapdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\nhapdiem\\xuly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\nhapdiem\\xuly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XuLy.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\XuLy.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\NhapDiem\\XuLy.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\XuLy.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\NhapDiem\\XuLy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T15:00:52.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\Index.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\NhapDiem\\Index.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\Index.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\NhapDiem\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T14:42:51.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Models\\SinhVien.cs",
+              "RelativeDocumentMoniker": "kttx1\\Models\\SinhVien.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Models\\SinhVien.cs",
+              "RelativeToolTip": "kttx1\\Models\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:27:48.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhapDiemController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\NhapDiemController.cs",
+              "RelativeDocumentMoniker": "kttx1\\Controllers\\NhapDiemController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\NhapDiemController.cs",
+              "RelativeToolTip": "kttx1\\Controllers\\NhapDiemController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:20:20.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
