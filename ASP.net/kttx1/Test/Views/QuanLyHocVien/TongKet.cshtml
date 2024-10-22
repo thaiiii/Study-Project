@@ -1,0 +1,40 @@
+﻿@model List<Test.Models.HocVien>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>TongKet</title>
+</head>
+<body>
+    <h2>Danh sach hoc vien tong ket >=23 </h2>
+    <table>
+        <tr>
+            <th>Ma HV</th>
+            <th>Ho ten</th>
+            <th>Diem thi</th>
+            <th>Diem uu tien</th>
+            <th>Tong diem</th>
+        </tr>
+        @foreach (var hv in Model)
+        {
+            <tr>
+                <td>@hv.mahv</td>
+                <td>@hv.hoten</td>
+                <td>@hv.diemthi</td>
+                <td>@hv.uutien</td>
+                <td>@hv.TongDiem()</td>
+            </tr>
+        }
+
+
+    </table>
+    <form action="/QuanLyHocVien/Back" method="post">
+        <input type="submit" value="Back" />
+    </form>
+</body>
+</html>

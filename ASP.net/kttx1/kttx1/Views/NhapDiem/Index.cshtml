@@ -11,13 +11,16 @@
     <title>Index</title>
 </head>
 <body>
-    <h2>Nhập điểm của sv</h2>
-    <form action="/NhapDiem/XuLy" method="post">
+    <h2>Dọc/Ghi file</h2>
+    <form action="" method="post">
         <div>Ma Sv: </div><input name="Id" />
         <div>Ho ten: </div><input name="Name" />
         <div>Diem: </div><input name="Marks" />
         <hr/>
-        <input type="submit" value="Nhap"/>
+        <input type="submit" value="Nhap" formaction="/NhapDiem/Save"/>
+        <input type="submit" value="Mo" formaction="/NhapDiem/Open"/>
     </form> <br />
+    <p>@ViewBag.HanhDong</p>
+    <p>@ViewBag.ThongTin</p>
 </body>
 </html>

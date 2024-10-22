@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Bài ôn tập kiểm tra thử số 1</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        /*Font tahoma va chu trang*/
+        body{
+            font-family: Tahoma, sans-serif;
+            color: #fff;
+        }
+
+        /*Nen cam*/
+        .header {
+            background-color: #ff6a00;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        /*Menu mau do*/
+        .navbar{
+            background-color: #be0000;
+            }
+        .navbar a{
+            color:#fff;
+            
+
+        }
+    </style>
+
+</head>
+<body>
+    <div class="header">BAI KTRA SO 1</div>
+
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark">
+        <div class="container">
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div style="text-align: right;" class=" collapse navbar-collapse d-sm-inline-flex justify-content-end">
+                <ul class="navbar-nav ">
+                    <li>@Html.ActionLink("Tổng kết", "TongKet", "QuanLyHocvien", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-link">|</li>
+
+                    <li>@Html.ActionLink("Thi đạt", "ThiDat", "QuanLyHocVien", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li class="nav-link">|</li>
+                    <li>@Html.ActionLink("Nhập học viên mới", "NhapHocVien", "QuanLyHocVien", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Bài ôn tập kiểm tra thử số 1</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+--=

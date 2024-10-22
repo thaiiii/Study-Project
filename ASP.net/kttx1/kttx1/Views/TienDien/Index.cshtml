@@ -1,0 +1,65 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style>
+        
+        table{
+            border-collapse: collapse;
+        }
+        td {
+            border: 1px solid #000;
+            margin: 0;
+            padding: 2px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <div> 
+        <form style="text-align: center; width: 50%" action="/TienDien/Tinh" method="post">
+            <table style="text-align: center;">
+                <tr>
+                    <td colspan="3" style="text-align: center"><b><h2>Tinh tien dien</h2></b></td>
+                </tr>
+                <tr>
+                    <td>Ho ten chu ho: </td>
+                    <td><input type="text" name="chuho" /></td>
+                    <td><input type="checkbox" name="uutien" value="true" /> Ho uu tien</td>
+                </tr>
+                <tr>
+                    <td>Loai dien tieu thu</td>
+                    <td colspan="2">
+                        <select name="loaidien">
+                            <option value="Sinh hoat">Sinh hoat</option>;
+                            <option value="Kinh doanh">Kinh doanh</option>;
+                            <option value="San xuat">San xuat</option>;
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Vao chi so cu</td>
+                    <td colspan="2"><input type="number" name="firstIndex" /><b>KW</b></td>
+
+                </tr>
+                <tr>
+                    <td>Vao chi so moi</td>
+                    <td colspan="2"><input type="number" name="lastIndex" /><b>KW</b></td>
+
+                </tr>
+                <tr>
+                    <td colspan="3" style="text-align: center;" ><input style="text-align: center;" type="submit" value="Tinh" /></td>
+                </tr>
+            </table>
+            
+        </form>
+    </div>
+</body>
+</html>

@@ -1,0 +1,63 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <h2>Student registration form 
+    </h2>
+
+    <table border="1" " style="border-collapse: collapse;" cellpadding="5">
+        <tr>
+            <td>Student name</td>
+            <td><input type="text" name="name" /></td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td><input type="radio" name="gender" value="male" />Male</td>
+            <td><input type="radio" name="gender" value="female" />Female</td>
+        </tr>
+        <tr>
+            <td>Email</td>
+            <td><input type="text" name="email" /></td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>
+                <select name="address">
+                    <option value="Ha Noi">Ha Noi</option>
+                    <option value="Da Nang">Da Nang</option>
+                    <option value="HCM">HCM</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Subjects</td>
+            <td>
+                <input type="checkbox" name="subject" value="history" />
+                <input type="checkbox" name="subject" value="science" />
+                <input type="checkbox" name="subject" value="geography" />
+            </td>
+        </tr>
+        <tr>
+            <td>User name</td>
+            <td><input type="text" name="username" /></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="text" name="password" /></td>
+        </tr>
+        <tr>
+            <td>Comment</td>
+            <td><textarea name="comment" rows="4" cols="50"/></td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\kttx1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\nhapdiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\nhapdiem\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\studentregistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\studentregistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\controllers\\nhapdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\controllers\\nhapdiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\nhapdiem\\xuly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\nhapdiem\\xuly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\views\\uploadfile\\uploadfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\views\\uploadfile\\uploadfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|d:\\study project\\asp.net\\kttx1\\kttx1\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCDAC674-BFD9-49EF-9858-A48CDF0D321B}|kttx1\\kttx1.csproj|solutionrelative:kttx1\\controllers\\uploadfilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "XuLy.cshtml",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\XuLy.cshtml",
-              "RelativeDocumentMoniker": "kttx1\\Views\\NhapDiem\\XuLy.cshtml",
-              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\XuLy.cshtml",
-              "RelativeToolTip": "kttx1\\Views\\NhapDiem\\XuLy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T15:00:52.191Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\Index.cshtml",
-              "RelativeDocumentMoniker": "kttx1\\Views\\NhapDiem\\Index.cshtml",
-              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\NhapDiem\\Index.cshtml",
-              "RelativeToolTip": "kttx1\\Views\\NhapDiem\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\StudentRegistration\\Index.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\StudentRegistration\\Index.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\StudentRegistration\\Index.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\StudentRegistration\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-21T14:42:51.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Models\\SinhVien.cs",
-              "RelativeDocumentMoniker": "kttx1\\Models\\SinhVien.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Models\\SinhVien.cs",
-              "RelativeToolTip": "kttx1\\Models\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:27:48.132Z",
+              "WhenOpened": "2024-10-22T10:42:52.826Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NhapDiemController.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\NhapDiemController.cs",
-              "RelativeDocumentMoniker": "kttx1\\Controllers\\NhapDiemController.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\NhapDiemController.cs",
-              "RelativeToolTip": "kttx1\\Controllers\\NhapDiemController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEEAAAAaAAAAAAAAAA==",
+              "Title": "StudentRegistrationController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\StudentRegistrationController.cs",
+              "RelativeDocumentMoniker": "kttx1\\Controllers\\StudentRegistrationController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\StudentRegistrationController.cs",
+              "RelativeToolTip": "kttx1\\Controllers\\StudentRegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:20:20.336Z",
+              "WhenOpened": "2024-10-22T10:42:42.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadFile.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\UploadFile\\UploadFile.cshtml",
+              "RelativeDocumentMoniker": "kttx1\\Views\\UploadFile\\UploadFile.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Views\\UploadFile\\UploadFile.cshtml",
+              "RelativeToolTip": "kttx1\\Views\\UploadFile\\UploadFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T09:49:20.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UploadFileController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\UploadFileController.cs",
+              "RelativeDocumentMoniker": "kttx1\\Controllers\\UploadFileController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\kttx1\\kttx1\\Controllers\\UploadFileController.cs",
+              "RelativeToolTip": "kttx1\\Controllers\\UploadFileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:40:53.902Z",
               "EditorCaption": ""
             }
           ]

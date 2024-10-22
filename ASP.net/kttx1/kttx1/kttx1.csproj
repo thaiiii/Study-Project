@@ -120,12 +120,17 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CalculatorController.cs" />
     <Compile Include="Controllers\HelloController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\NhapDiemController.cs" />
+    <Compile Include="Controllers\StudentRegistrationController.cs" />
+    <Compile Include="Controllers\TienDienController.cs" />
+    <Compile Include="Controllers\UploadFileController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Operation.cs" />
     <Compile Include="Models\SinhVien.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -184,6 +189,12 @@
     <Content Include="Views\Hello\MyLink.cshtml" />
     <Content Include="Views\NhapDiem\Index.cshtml" />
     <Content Include="Views\NhapDiem\XuLy.cshtml" />
+    <Content Include="Views\Calculator\Index.cshtml" />
+    <Content Include="Views\Calculator\Calculate.cshtml" />
+    <Content Include="Views\TienDien\Index.cshtml" />
+    <Content Include="Views\TienDien\Tinh.cshtml" />
+    <Content Include="Views\UploadFile\UploadFile.cshtml" />
+    <Content Include="Views\StudentRegistration\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

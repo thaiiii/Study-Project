@@ -1,0 +1,32 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <h2>Index</h2>
+        <form action="/Calculator/Calculate" method="post">
+            <div>Nhap a: </div> <input type="number" name="numberA" /> <br />
+            <div>Nhap b: </div> <input type="number" name="numberB" /> <br />
+            <div>
+                <input name="operation" type="radio" value="cong"/>Cong
+                <input name="operation" type="radio" value="tru"/>Tru
+                <input name="operation" type="radio" value="nhan"/>Nhan
+                <input name="operation" type="radio" value="chia"/>Chia
+            </div>
+            <input type="submit" value="Nhap" />
+            <div name="result"></div>
+        </form>
+
+
+    </div>
+</body>
+</html>

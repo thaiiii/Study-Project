@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>Danh sach hoc vien</h2>
+    @if (Model != null)
+    {
+        <table>
+            <tr>
+                <th>Ma HV</th>
+                <th>Ho ten</th>
+                <th>Diem thi</th>
+                <th>Diem uu tien</th>
+                <th>Tong diem</th>
+            </tr>
+            @foreach (var hv in Model)
+            {
+                <tr>
+                    <td>@hv.mahv</td>
+                    <td>@hv.hoten</td>
+                    <td>@hv.diemthi</td>
+                    <td>@hv.uutien</td>
+                    <td>@hv.TongDiem()</td>
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <p> Khong co hoc vien nao</p>
+    }
+</body>
+</html>

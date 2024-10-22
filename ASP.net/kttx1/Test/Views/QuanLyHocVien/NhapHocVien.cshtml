@@ -1,0 +1,39 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>NhapHocVien</title>
+</head>
+<body>
+    <h2>Nhap thong tin hoc vien moi</h2>
+    <form action="/QuanLyHocVien/NhapHocVien" method="post">
+        <table>
+            <tr>
+                <td>Ma hoc vien</td>
+                <td><input type="text" name="mahv" /></td>
+            </tr>
+            <tr>
+                <td>Ho ten</td>
+                <td><input type="text" name="hoten" /></td>
+            </tr>
+            <tr>
+                <td>Diem thi</td>
+                <td><input type="number" name="diemthi" /></td>
+            </tr>
+            <tr>
+                <td>Uu tien</td>
+                <td><input type="number" name="uutien" /></td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Nhap hoc vien!" /></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
