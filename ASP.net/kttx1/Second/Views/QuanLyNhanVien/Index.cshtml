@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>Danh sach nhan vien</h2>
+    <table>
+        <tr>
+            <th>Ma nv</th>
+            <th>Ho ten</th>
+            <th>Luong</th>
+            <th>Thuong</th>
+            <th>Tong nhu nhap</th>
+        </tr>
+        @foreach (var nv in Model)
+        {
+            <tr>
+                <td>@nv.manv</td>
+                <td>@nv.hoten</td>
+                <td>@nv.luong</td>
+                <td>@nv.thuong</td>
+                <td>@nv.TongThuNhap()</td>
+            </tr>
+        }
+    </table>
+    <br />
+    <form action="/QuanLyNhanVien/Back" method="post">
+
+        <input type="submit" value="back" />
+
+    </form>
+</body>
+</html>
