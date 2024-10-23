@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai1.xslt"?>
+
+<congty xmlns="http://tempuri.org/Bai1.xsd">
+	<donvi madv="dv01">
+		<tendv>dv 1</tendv>
+		<dienthoai>1231231234</dienthoai>
+		<nhanvien manv="nv01">
+			<hoten>n v a</hoten>
+			<ngaysinh>2000-12-30</ngaysinh>
+			<gioitinh>Male</gioitinh>
+			<hsl>3</hsl>
+		</nhanvien>
+	</donvi>
+
+	<donvi madv="dv02">
+		<tendv>dv 1</tendv>
+		<dienthoai>1231231234</dienthoai>
+		<nhanvien manv="nv02">
+			<hoten>n v a</hoten>
+			<ngaysinh>2000-12-30</ngaysinh>
+			<gioitinh>Male</gioitinh>
+			<hsl>2</hsl>
+		</nhanvien>
+	</donvi>
+</congty>

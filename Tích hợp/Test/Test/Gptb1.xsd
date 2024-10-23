@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Gptb1"
+    targetNamespace="http://tempuri.org/Gptb1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Gptb1.xsd"
+    xmlns:mstns="http://tempuri.org/Gptb1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="vara" type="xs:double"/>
+				<xs:element name="varb" type="xs:double"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	
+</xs:schema>

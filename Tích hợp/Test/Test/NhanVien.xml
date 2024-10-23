@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/NhanVien.xsd">
+	<donvi ID="dv01">
+		<tendonvi>don vi 1</tendonvi>
+		<dienthoai>1231231234</dienthoai>
+		<danhsachnhanvien>
+			<nhanvien ID="nv01">
+				<hoten>a b c </hoten>
+				<ngaysinh>2000-12-30</ngaysinh>
+				<hsl>2.5</hsl>
+			</nhanvien>
+		</danhsachnhanvien>
+		
+	</donvi>
+</DS>

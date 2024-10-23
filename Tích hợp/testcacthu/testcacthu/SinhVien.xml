@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="SinhVien.xslt"?>
+
+<Lop xmlns="http://tempuri.org/SinhVien.xsd">
+	<SinhVien MaSV="sv01">
+		<TenSV>absdbjasjdk</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>31/10/2003</NgaySinh>
+		<MaLop>cntt14</MaLop>
+		
+	</SinhVien>
+
+	<SinhVien MaSV="sv02">
+		<TenSV>absdbjasjdk</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>31/10/2003</NgaySinh>
+		<MaLop>cntt14</MaLop>
+
+	</SinhVien>
+
+	<SinhVien MaSV="sv03">
+		<TenSV>absdbjasjdk</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>31/10/2003</NgaySinh>
+		<MaLop>cntt14</MaLop>
+
+	</SinhVien>
+
+	<SinhVien MaSV="sv04">
+		<TenSV>absdbjasjdk</TenSV>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>31/10/2003</NgaySinh>
+		<MaLop>cntt14</MaLop>
+
+	</SinhVien>
+</Lop>

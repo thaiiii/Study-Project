@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LienHe xmlns="http://tempuri.org/LienHe.xsd" ID="1">
+	<Tel>0964344562</Tel>
+	<Age>1</Age>
+	<Gender>Male</Gender>
+	<Name>
+		<FirstName>A</FirstName>
+		<LastName>B</LastName>
+	</Name>
+	
+</LienHe>

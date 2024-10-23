@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SinhVien"
+    targetNamespace="http://tempuri.org/SinhVien.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/SinhVien.xsd"
+    xmlns:mstns="http://tempuri.org/SinhVien.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="NameType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="3"></xs:minLength>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="MaSVType">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="sv\d{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:simpleType name="SexType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Nam"/>
+			<xs:enumeration value="Nu"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="DoBType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{2}/\d{2}/\d{4}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="MaLopType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\w{4}\d{2}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:element name="Lop">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="SinhVien" maxOccurs="unbounded">
+					<xs:complexType>	
+						<xs:sequence>
+							
+							<xs:element name="TenSV" type="NameType"/>
+							<xs:element name="GioiTinh" type="SexType"/>
+							<xs:element name="NgaySinh" type="DoBType"/>
+							<xs:element name="MaLop" type="MaLopType"/>
+						</xs:sequence>
+						<xs:attribute name="MaSV" type="MaSVType"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
