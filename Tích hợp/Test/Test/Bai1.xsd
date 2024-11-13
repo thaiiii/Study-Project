@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Bai1"
+    targetNamespace="http://tempuri.org/Bai1.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Bai1.xsd"
+    xmlns:mstns="http://tempuri.org/Bai1.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="IDType">
+		<xs:restriction base="xs:ID">
+			<xs:minLength value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="NameType">
+		<xs:restriction base="xs:string">
+			<xs:minLength value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:simpleType name="GenderType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Male"/>
+			<xs:enumeration value="Female"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="HSLType">
+		<xs:restriction base="xs:float">
+			<xs:minInclusive value="1"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="TelType">
+		<xs:restriction base="xs:string">
+			<xs:pattern value="\d{10}"/>
+		</xs:restriction>
+	</xs:simpleType>
+
+	<xs:element name="congty">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="donvi" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="tendv" type="NameType"/>
+							<xs:element name="dienthoai" type="TelType"/>
+							<xs:element name="nhanvien" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="hoten" type="NameType"/>
+										<xs:element name="ngaysinh" type="xs:date"/>
+										<xs:element name="gioitinh" type="GenderType"/>
+										<xs:element name="hsl" type="HSLType"/>
+									</xs:sequence>
+									<xs:attribute name="manv" type="IDType"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="madv" type="IDType"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>

@@ -1,0 +1,9 @@
+D:\Study-Project\Tích hợp\Test\Test\bin\Debug\Test.exe.config
+D:\Study-Project\Tích hợp\Test\Test\bin\Debug\Test.exe
+D:\Study-Project\Tích hợp\Test\Test\bin\Debug\Test.pdb
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.exe
+D:\Study-Project\Tích hợp\Test\Test\obj\Debug\Test.pdb

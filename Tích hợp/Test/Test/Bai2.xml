@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Bai2.xslt"?>
+<DS>
+<congty tenct="cong ty duoc pham nam ha">
+	<donvi>
+		<madv>a01</madv>
+		<tendv>phong 1</tendv>
+		<dienthoai>123</dienthoai>
+		<nhanvien>
+			<manv>nv1</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>23</ngaycong>
+			
+		</nhanvien>
+		<nhanvien>
+			<manv>nv2</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>25</ngaycong>
+
+		</nhanvien>
+		<nhanvien>
+			<manv>nv3</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>24</ngaycong>
+
+		</nhanvien>
+
+
+	</donvi>
+
+	<donvi>
+		<madv>a02</madv>
+		<tendv>phong 1</tendv>
+		<dienthoai>123</dienthoai>
+		<nhanvien>
+			<manv>nv1</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>23</ngaycong>
+
+		</nhanvien>
+		<nhanvien>
+			<manv>nv2</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>25</ngaycong>
+
+		</nhanvien>
+		<nhanvien>
+			<manv>nv3</manv>
+			<hoten> nguyen van a</hoten>
+			<ngaysinh>2000-10-31</ngaysinh>
+			<gioitinh>nu</gioitinh>
+			<ngaycong>24</ngaycong>
+
+		</nhanvien>
+
+
+	</donvi>
+	
+</congty>
+
+<congty tenct="cong ty duoc pham abc">
+		<donvi>
+			<madv>a01</madv>
+			<tendv>phong 1</tendv>
+			<dienthoai>123</dienthoai>
+			<nhanvien>
+				<manv>nv1</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+
+			</nhanvien>
+			<nhanvien>
+				<manv>nv2</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>25</ngaycong>
+
+			</nhanvien>
+			<nhanvien>
+				<manv>nv3</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>24</ngaycong>
+
+			</nhanvien>
+
+
+		</donvi>
+
+		<donvi>
+			<madv>a02</madv>
+			<tendv>phong 1</tendv>
+			<dienthoai>123</dienthoai>
+			<nhanvien>
+				<manv>nv1</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>23</ngaycong>
+
+			</nhanvien>
+			<nhanvien>
+				<manv>nv2</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>25</ngaycong>
+
+			</nhanvien>
+			<nhanvien>
+				<manv>nv3</manv>
+				<hoten> nguyen van a</hoten>
+				<ngaysinh>2000-10-31</ngaysinh>
+				<gioitinh>nu</gioitinh>
+				<ngaycong>24</ngaycong>
+
+			</nhanvien>
+
+
+		</donvi>
+
+	</congty>
+
+</DS>

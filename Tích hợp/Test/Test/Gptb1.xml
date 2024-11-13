@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Gptb1.xslt" ?>
+
+<DS xmlns="http://tempuri.org/Gptb1.xsd">
+	<vara>20</vara>
+	<varb>5</varb>
+</DS>
