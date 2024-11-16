@@ -1,0 +1,10 @@
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\bin\Debug\Bai6-2.exe.config
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\bin\Debug\Bai6-2.exe
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\bin\Debug\Bai6-2.pdb
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6-2.csproj.AssemblyReference.cache
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6_2.Form1.resources
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6_2.Properties.Resources.resources
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6-2.csproj.GenerateResource.cache
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6-2.csproj.CoreCompileInputs.cache
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6-2.exe
+D:\Study Project\Tích hợp\Restful web service\PhamQuocThai_2021601307\Bai6-2\obj\Debug\Bai6-2.pdb

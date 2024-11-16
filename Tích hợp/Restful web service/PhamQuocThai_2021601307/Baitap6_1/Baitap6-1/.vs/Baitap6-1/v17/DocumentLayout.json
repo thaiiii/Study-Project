@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\restful web service\\phamquocthai_2021601307\\baitap6_1\\baitap6-1\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|solutionrelative:controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\controllers\\donvicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|solutionrelative:controllers\\donvicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\models\\qlluongmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{46C989D9-ADCC-432C-A592-3A7A60B90AAC}|Baitap6-1.csproj|solutionrelative:models\\qlluongmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DonViController.cs",
+              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Controllers\\DonViController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DonViController.cs",
+              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Controllers\\DonViController.cs",
+              "RelativeToolTip": "Controllers\\DonViController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:54:51.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:43:30.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLLuongModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Models\\QLLuongModel.edmx",
+              "RelativeDocumentMoniker": "Models\\QLLuongModel.edmx",
+              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Baitap6_1\\Baitap6-1\\Models\\QLLuongModel.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\QLLuongModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-16T03:42:30.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
