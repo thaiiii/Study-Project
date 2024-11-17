@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\restful web service\\phamquocthai_2021601307\\bai6-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\restful web service\\phamquocthai_2021601307\\bai6-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDABBF-D958-4761-B2E7-0ABA8DF8D566}|Bai6-2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,42 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAxwCoAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T04:15:44.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai6-2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T04:08:43.389Z",
               "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
