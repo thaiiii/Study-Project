@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\migrations\\202411130944142_addaddresstostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:migrations\\202411130944142_addaddresstostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|d:\\study project\\asp.net\\entityframeworkdemo\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\migrations\\202411130944142_addaddresstostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:migrations\\202411130944142_addaddresstostudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7316FA80-60D9-4D4A-ABE6-79A144862E2F}|EntityFrameworkDemo.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,89 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnrollmentsController.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\EnrollmentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnrollmentsController.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\EnrollmentsController.cs",
-              "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:48:26.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:48:09.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:47:55.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "202411130944142_AddAddressToStudent.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\202411130944142_AddAddressToStudent.cs",
-              "RelativeDocumentMoniker": "Migrations\\202411130944142_AddAddressToStudent.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\202411130944142_AddAddressToStudent.cs",
-              "RelativeToolTip": "Migrations\\202411130944142_AddAddressToStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:44:18.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
-              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T09:43:47.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:00:07.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Enrollment.cs",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Models\\Enrollment.cs",
               "RelativeDocumentMoniker": "Models\\Enrollment.cs",
@@ -137,16 +68,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
               "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T04:00:19.842Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:43:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202411130944142_AddAddressToStudent.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\202411130944142_AddAddressToStudent.cs",
+              "RelativeDocumentMoniker": "Migrations\\202411130944142_AddAddressToStudent.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Migrations\\202411130944142_AddAddressToStudent.cs",
+              "RelativeToolTip": "Migrations\\202411130944142_AddAddressToStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:44:18.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:47:55.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\EntityFrameworkDemo\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:48:09.619Z"
             }
           ]
         }

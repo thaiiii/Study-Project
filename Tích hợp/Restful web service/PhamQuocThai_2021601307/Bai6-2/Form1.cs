@@ -45,44 +45,86 @@ namespace Bai6_2
 
         private void LoadDataGridView()
         {
-            string link = "http://localhost/baitaprestful/api/nhanvien";
-            HttpWebRequest request = WebRequest.CreateHttp(link);
+            //Lay danh sach tu NhanVien
+            string linkNhanVien = "http://localhost/baitaprestful/api/nhanvien";
+            HttpWebRequest requestNhanVien = WebRequest.CreateHttp(linkNhanVien);
 
-            WebResponse response = request.GetResponse();
-            DataContractJsonSerializer js = new DataContractJsonSerializer(typeof(NhanVien[]));
-            object data = js.ReadObject(response.GetResponseStream());
+            WebResponse responseNhanVien = requestNhanVien.GetResponse();
+            DataContractJsonSerializer jsNhanVien = new DataContractJsonSerializer(typeof(NhanVien[]));
+            object dataNhanVien = jsNhanVien.ReadObject(responseNhanVien.GetResponseStream());
+            NhanVien[] arrNhanVien = dataNhanVien as NhanVien[];
 
-            NhanVien[] arr = data as NhanVien[];
-            dataGridView1.DataSource = arr; 
+
+            //Lay danh sach tu DonVi
+            string linkDonVi = "http://localhost/baitaprestful/api/donvi";
+            HttpWebRequest requestDonVi = WebRequest.CreateHttp(linkDonVi);
+
+            WebResponse responseDonVi = requestDonVi.GetResponse();
+            DataContractJsonSerializer jsDonVi = new DataContractJsonSerializer(typeof(DonVi[]));
+            object dataDonVi = jsDonVi.ReadObject(responseDonVi.GetResponseStream());
+            DonVi[] arrDonVi = dataDonVi as DonVi[];
+
+            //Anh xa ten don vi vao nhan vien
+            var result = arrNhanVien.Select(nv => new
+            {
+                MaNV = nv.MaNV,
+                HoTen = nv.HoTen,
+                GioiTinh = nv.GioiTinh,
+                Hsluong = nv.Hsluong,
+                MaDonVi = nv.MaDonVi,
+                TenDonVi = arrDonVi.FirstOrDefault(dv => dv.MaDonVi == nv.MaDonVi)?.TenDonVi ?? "Khong xac dinh"
+            }).ToList();
+
+            dataGridView1.DataSource = result;
 
 
         }
 
         private void btnTimGioiTinh_Click(object sender, EventArgs e)
         {
-            string postLink = string.Format("?gioitinh={0}",txtGioiTinh.Text);
-            string link = "http://localhost/baitaprestful/api/nhanvien/" + postLink;
+            //Lay danh sach tu NhanVien
+            string postLink = string.Format("?GioiTinh={0}", txtGioiTinh.Text);
+            string linkNhanVien = "http://localhost/baitaprestful/api/nhanvien" + postLink;
+            HttpWebRequest requestNhanVien = WebRequest.CreateHttp(linkNhanVien);
+            WebResponse responseNhanVien = requestNhanVien.GetResponse();
+            
+            DataContractJsonSerializer jsNhanVien = new DataContractJsonSerializer(typeof(NhanVien[]));
+            object dataNhanVien = jsNhanVien.ReadObject(responseNhanVien.GetResponseStream());
+            NhanVien[] arrNhanVien = dataNhanVien as NhanVien[];
 
-            HttpWebRequest request = WebRequest.CreateHttp(link);
-            WebResponse response = request.GetResponse();
 
-            DataContractJsonSerializer js = new DataContractJsonSerializer(typeof(NhanVien[]));
-            object data = js.ReadObject(response.GetResponseStream());
-            NhanVien[] arr = data as NhanVien[];    
-            dataGridView1.DataSource = arr;
+            //Lay danh sach tu DonVi
+            string linkDonVi = "http://localhost/baitaprestful/api/donvi";
+            HttpWebRequest requestDonVi = WebRequest.CreateHttp(linkDonVi);
+            WebResponse responseDonVi = requestDonVi.GetResponse();
+
+            DataContractJsonSerializer jsDonVi = new DataContractJsonSerializer(typeof(DonVi[]));
+            object dataDonVi = jsDonVi.ReadObject(responseDonVi.GetResponseStream());
+            DonVi[] arrDonVi = dataDonVi as DonVi[];
+
+            var result = arrNhanVien.Select(nv => new
+            {
+                MaNV = nv.MaNV,
+                HoTen = nv.HoTen,
+                GioiTinh = nv.GioiTinh,
+                Hsluong = nv.Hsluong,
+                MaDonVi = nv.MaDonVi,
+                TenDonVi = arrDonVi.FirstOrDefault(dv => dv.MaDonVi == nv.MaDonVi)?.TenDonVi ?? "Khong xac dinh"
+            }).ToList();
 
 
+            dataGridView1.DataSource = result;
         }
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-            string postLink = string.Format("?manv={0}&hoten={1}&gioitinh={2}&hsluong={3}&madonvi={4}",
+            string postLink = string.Format("?MaNV={0}&HoTen={1}&GioiTinh={2}&Hsluong={3}&MaDonVi={4}",
                 txtMaNV.Text,
-                txtHoTen,
+                txtHoTen.Text,
                 txtGioiTinh.Text,
                 txtHsluong.Text,
-                cboDonVi.Text);
-            string link = "http://localhost/baitaprestful/api/nhanvien/" + postLink;
+                cboDonVi.SelectedValue);
+            string link = "http://localhost/baitaprestful/api/nhanvien" + postLink;
 
             HttpWebRequest request = WebRequest.CreateHttp(link);
             request.Method = "POST";
@@ -94,7 +136,7 @@ namespace Bai6_2
             bool kq = (bool)data;
             if (kq)
             {
-                MessageBox.Show("THem thanh cong");
+                MessageBox.Show("Them thanh cong");
                 LoadDataGridView();
             }
             else
@@ -106,13 +148,13 @@ namespace Bai6_2
 
         private void btnSua_Click(object sender, EventArgs e)
         {
-            string postLink = string.Format("?manv={0}&hoten={1}&gioitinh={2}&hsluong={3}&madonvi={4}",
+            string postLink = string.Format("?MaNV={0}&HoTen={1}&GioiTinh={2}&Hsluong={3}&MaDonVi={4}",
                 txtMaNV.Text,
-                txtHoTen,
+                txtHoTen.Text,
                 txtGioiTinh.Text,
                 txtHsluong.Text,
-                cboDonVi.Text);
-            string link = "http://localhost/baitaprestful/api/nhanvien/" + postLink;
+                cboDonVi.SelectedValue);
+            string link = "http://localhost/baitaprestful/api/nhanvien" + postLink;
 
             HttpWebRequest request = WebRequest.CreateHttp(link);
             request.Method = "PUT";
@@ -135,7 +177,7 @@ namespace Bai6_2
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            string postLink = string.Format("?manv={0}", txtMaNV.Text);
+            string postLink = string.Format("?MaNV={0}", txtMaNV.Text);
             string link = "http://localhost/baitaprestful/api/nhanvien/" + postLink;
 
             HttpWebRequest request = WebRequest.CreateHttp(link);
@@ -167,9 +209,10 @@ namespace Bai6_2
             txtGioiTinh.Text = dataGridView1.Rows[d].Cells[2].Value.ToString();
             txtHsluong.Text = dataGridView1.Rows[d].Cells[3].Value.ToString();
 
-            // Gán mã danh mục vào SelectedValue thay vì Text.
-            int maDonVi = Convert.ToInt32(dataGridView1.Rows[d].Cells[4].Value);
-            cboDonVi.SelectedValue = maDonVi; // Tự động hiển thị tên danh mục tương ứng.
+            cboDonVi.SelectedValue = Convert.ToInt32(dataGridView1.Rows[d].Cells[4].Value); 
+            // Tự động hiển thị tên danh mục tương ứng.
         }
+
+        
     }
 }

@@ -17,5 +17,10 @@ namespace Baitap6_1.Controllers
         {
             return db.DonVis.ToList();
         }
+        [HttpGet]
+        public List<DonVi> LayDonViTheoTenDonVi(string tendonvi)
+        {
+            return db.DonVis.Where(x => x.TenDonVi == tendonvi).ToList();
+        }
     }
 }

@@ -40,27 +40,26 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.MaNV = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.HoTen = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.MaDonVi = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.TenDonVi = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.GioiTinh = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Hsluong = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DonVi = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // cboDonVi
             // 
             this.cboDonVi.FormattingEnabled = true;
-            this.cboDonVi.Location = new System.Drawing.Point(299, 150);
-            this.cboDonVi.Margin = new System.Windows.Forms.Padding(4);
+            this.cboDonVi.Location = new System.Drawing.Point(224, 122);
             this.cboDonVi.Name = "cboDonVi";
-            this.cboDonVi.Size = new System.Drawing.Size(276, 24);
+            this.cboDonVi.Size = new System.Drawing.Size(208, 21);
             this.cboDonVi.TabIndex = 0;
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(676, 18);
-            this.btnThem.Margin = new System.Windows.Forms.Padding(4);
+            this.btnThem.Location = new System.Drawing.Point(507, 15);
             this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(100, 28);
+            this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 1;
             this.btnThem.Text = "button1";
             this.btnThem.UseVisualStyleBackColor = true;
@@ -68,10 +67,9 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(676, 54);
-            this.btnSua.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSua.Location = new System.Drawing.Point(507, 44);
             this.btnSua.Name = "btnSua";
-            this.btnSua.Size = new System.Drawing.Size(100, 28);
+            this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 2;
             this.btnSua.Text = "button2";
             this.btnSua.UseVisualStyleBackColor = true;
@@ -79,10 +77,9 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(676, 90);
-            this.btnXoa.Margin = new System.Windows.Forms.Padding(4);
+            this.btnXoa.Location = new System.Drawing.Point(507, 73);
             this.btnXoa.Name = "btnXoa";
-            this.btnXoa.Size = new System.Drawing.Size(100, 28);
+            this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 3;
             this.btnXoa.Text = "button3";
             this.btnXoa.UseVisualStyleBackColor = true;
@@ -90,10 +87,9 @@
             // 
             // btnTimGioiTinh
             // 
-            this.btnTimGioiTinh.Location = new System.Drawing.Point(676, 126);
-            this.btnTimGioiTinh.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTimGioiTinh.Location = new System.Drawing.Point(507, 102);
             this.btnTimGioiTinh.Name = "btnTimGioiTinh";
-            this.btnTimGioiTinh.Size = new System.Drawing.Size(100, 28);
+            this.btnTimGioiTinh.Size = new System.Drawing.Size(75, 23);
             this.btnTimGioiTinh.TabIndex = 4;
             this.btnTimGioiTinh.Text = "button4";
             this.btnTimGioiTinh.UseVisualStyleBackColor = true;
@@ -101,34 +97,30 @@
             // 
             // txtMaNV
             // 
-            this.txtMaNV.Location = new System.Drawing.Point(299, 22);
-            this.txtMaNV.Margin = new System.Windows.Forms.Padding(4);
+            this.txtMaNV.Location = new System.Drawing.Point(224, 18);
             this.txtMaNV.Name = "txtMaNV";
-            this.txtMaNV.Size = new System.Drawing.Size(276, 22);
+            this.txtMaNV.Size = new System.Drawing.Size(208, 20);
             this.txtMaNV.TabIndex = 5;
             // 
             // txtHoTen
             // 
-            this.txtHoTen.Location = new System.Drawing.Point(299, 54);
-            this.txtHoTen.Margin = new System.Windows.Forms.Padding(4);
+            this.txtHoTen.Location = new System.Drawing.Point(224, 44);
             this.txtHoTen.Name = "txtHoTen";
-            this.txtHoTen.Size = new System.Drawing.Size(276, 22);
+            this.txtHoTen.Size = new System.Drawing.Size(208, 20);
             this.txtHoTen.TabIndex = 6;
             // 
             // txtGioiTinh
             // 
-            this.txtGioiTinh.Location = new System.Drawing.Point(299, 86);
-            this.txtGioiTinh.Margin = new System.Windows.Forms.Padding(4);
+            this.txtGioiTinh.Location = new System.Drawing.Point(224, 70);
             this.txtGioiTinh.Name = "txtGioiTinh";
-            this.txtGioiTinh.Size = new System.Drawing.Size(276, 22);
+            this.txtGioiTinh.Size = new System.Drawing.Size(208, 20);
             this.txtGioiTinh.TabIndex = 7;
             // 
             // txtHsluong
             // 
-            this.txtHsluong.Location = new System.Drawing.Point(299, 118);
-            this.txtHsluong.Margin = new System.Windows.Forms.Padding(4);
+            this.txtHsluong.Location = new System.Drawing.Point(224, 96);
             this.txtHsluong.Name = "txtHsluong";
-            this.txtHsluong.Size = new System.Drawing.Size(276, 22);
+            this.txtHsluong.Size = new System.Drawing.Size(208, 20);
             this.txtHsluong.TabIndex = 8;
             // 
             // dataGridView1
@@ -137,14 +129,14 @@
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.MaNV,
             this.HoTen,
+            this.MaDonVi,
+            this.TenDonVi,
             this.GioiTinh,
-            this.Hsluong,
-            this.DonVi});
-            this.dataGridView1.Location = new System.Drawing.Point(28, 235);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
+            this.Hsluong});
+            this.dataGridView1.Location = new System.Drawing.Point(12, 172);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.Size = new System.Drawing.Size(724, 185);
+            this.dataGridView1.Size = new System.Drawing.Size(807, 266);
             this.dataGridView1.TabIndex = 9;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
             // 
@@ -164,6 +156,20 @@
             this.HoTen.Name = "HoTen";
             this.HoTen.Width = 125;
             // 
+            // MaDonVi
+            // 
+            this.MaDonVi.DataPropertyName = "MaDonVi";
+            this.MaDonVi.HeaderText = "Ma don vi";
+            this.MaDonVi.MinimumWidth = 6;
+            this.MaDonVi.Name = "MaDonVi";
+            this.MaDonVi.Width = 125;
+            // 
+            // TenDonVi
+            // 
+            this.TenDonVi.DataPropertyName = "TenDonVi";
+            this.TenDonVi.HeaderText = "Ten don vi";
+            this.TenDonVi.Name = "TenDonVi";
+            // 
             // GioiTinh
             // 
             this.GioiTinh.DataPropertyName = "GioiTinh";
@@ -180,19 +186,11 @@
             this.Hsluong.Name = "Hsluong";
             this.Hsluong.Width = 125;
             // 
-            // DonVi
-            // 
-            this.DonVi.DataPropertyName = "DonVi";
-            this.DonVi.HeaderText = "Don vi";
-            this.DonVi.MinimumWidth = 6;
-            this.DonVi.Name = "DonVi";
-            this.DonVi.Width = 125;
-            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 554);
+            this.ClientSize = new System.Drawing.Size(845, 450);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.txtHsluong);
             this.Controls.Add(this.txtGioiTinh);
@@ -203,7 +201,6 @@
             this.Controls.Add(this.btnSua);
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.cboDonVi);
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -227,9 +224,10 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DataGridViewTextBoxColumn MaNV;
         private System.Windows.Forms.DataGridViewTextBoxColumn HoTen;
+        private System.Windows.Forms.DataGridViewTextBoxColumn MaDonVi;
+        private System.Windows.Forms.DataGridViewTextBoxColumn TenDonVi;
         private System.Windows.Forms.DataGridViewTextBoxColumn GioiTinh;
         private System.Windows.Forms.DataGridViewTextBoxColumn Hsluong;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DonVi;
     }
 }
 

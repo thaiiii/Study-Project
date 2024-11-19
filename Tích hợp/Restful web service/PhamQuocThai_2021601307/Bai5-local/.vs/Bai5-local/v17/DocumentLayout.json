@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai5-local\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\restful web service\\phamquocthai_2021601307\\bai5-local\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai5-local\\controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|solutionrelative:controllers\\danhmuccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|solutionrelative:controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\restful web service\\phamquocthai_2021601307\\bai5-local\\models\\csdltestmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai5-local\\models\\csdltestmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{DBA4326C-DED5-4C0B-95AA-C684EAB329C8}|Bai5-local.csproj|solutionrelative:models\\csdltestmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Controllers\\SanPhamController.cs",
               "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai5-local\\Controllers\\SanPhamController.cs",
               "RelativeToolTip": "Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T09:20:14.716Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\Restful web service\\PhamQuocThai_2021601307\\Bai5-local\\Models\\CSDLTestModel.edmx [Diagram1]",
               "RelativeToolTip": "Models\\CSDLTestModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-15T09:18:02.437Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-11-15T09:18:02.437Z"
             }
           ]
         }

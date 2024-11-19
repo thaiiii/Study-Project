@@ -22,6 +22,11 @@ namespace Baitap6_1.Controllers
         {
             return db.NhanViens.Where(x => x.GioiTinh == GioiTinh).ToList();
         }
+        [HttpGet]
+        public NhanVien TimNhanVienTheoMaNhanVien(int MaNV)
+        {
+            return db.NhanViens.FirstOrDefault(x => x.MaNV == MaNV);
+        }
 
         [HttpPost]
         public bool ThemNhanVien(int MaNV, string HoTen, string GioiTinh, float Hsluong, int MaDonVi)
