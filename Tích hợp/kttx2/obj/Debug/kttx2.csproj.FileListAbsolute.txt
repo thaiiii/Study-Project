@@ -1,0 +1,10 @@
+D:\Study Project\Tích hợp\kttx2\bin\Debug\kttx2.exe.config
+D:\Study Project\Tích hợp\kttx2\bin\Debug\kttx2.exe
+D:\Study Project\Tích hợp\kttx2\bin\Debug\kttx2.pdb
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.csproj.AssemblyReference.cache
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.Form1.resources
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.Properties.Resources.resources
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.csproj.GenerateResource.cache
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.csproj.CoreCompileInputs.cache
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.exe
+D:\Study Project\Tích hợp\kttx2\obj\Debug\kttx2.pdb

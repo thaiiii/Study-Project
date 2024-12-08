@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv1">
+    <hoten>
+      <ho>A</ho>
+      <ten>a</ten>
+    </hoten>
+    <diachi>a a a a</diachi>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Dai hoc</trinhdo>
+  </nhanvien>
+  <nhanvien manv="nv2">
+    <hoten>
+      <ho>A</ho>
+      <ten>a</ten>
+    </hoten>
+    <diachi>a a a a</diachi>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Dai hoc</trinhdo>
+  </nhanvien>
+  <nhanvien manv="nv3">
+    <hoten>
+      <ho>A</ho>
+      <ten>a</ten>
+    </hoten>
+    <diachi>a a a a</diachi>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Cao dang</trinhdo>
+  </nhanvien>
+  <nhanvien manv="nv4">
+    <hoten>
+      <ho>A</ho>
+      <ten>a</ten>
+    </hoten>
+    <diachi>hgh</diachi>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Thac si</trinhdo>
+  </nhanvien>
+  <nhanvien manv="nv5">
+    <hoten>
+      <ho>N</ho>
+      <ten>n</ten>
+    </hoten>
+    <diachi>nnnnn</diachi>
+    <gioitinh>Nu</gioitinh>
+    <trinhdo>Cao dang</trinhdo>
+  </nhanvien>
+</ds>
