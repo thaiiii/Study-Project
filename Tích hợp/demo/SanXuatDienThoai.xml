@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sanxuatdienthoai>
+  <thoigian nam="2021">
+    <congty ten="Samsung">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+    <congty ten="Xiaomi">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+    <congty ten="Apple">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+    <congty ten="cty1">
+      <xuatxuong>11</xuatxuong>
+      <thiphan>11</thiphan>
+    </congty>
+  </thoigian>
+  <thoigian nam="2022">
+    <congty ten="Samsung">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+    <congty ten="Xiaomi">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+    <congty ten="Apple">
+      <xuatxuong>222</xuatxuong>
+      <thiphan>20</thiphan>
+    </congty>
+  </thoigian>
+  <thoigian nam="2023">
+  </thoigian>
+</sanxuatdienthoai>

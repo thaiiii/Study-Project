@@ -1,0 +1,10 @@
+D:\Study Project\Tích hợp\demo\bin\Debug\demo.exe.config
+D:\Study Project\Tích hợp\demo\bin\Debug\demo.exe
+D:\Study Project\Tích hợp\demo\bin\Debug\demo.pdb
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.csproj.AssemblyReference.cache
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.Form1.resources
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.Properties.Resources.resources
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.csproj.GenerateResource.cache
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.exe
+D:\Study Project\Tích hợp\demo\obj\Debug\demo.pdb

@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\kttx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\kttx2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\kttx2\\dsnhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|solutionrelative:dsnhanvien.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|d:\\study project\\t\u00EDch h\u1EE3p\\kttx2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BB06E18-FC55-4FA4-9F6A-4EE0492E2705}|kttx2.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwDEBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T08:31:06.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dsnhanvien.xml",
-              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\dsnhanvien.xml",
-              "RelativeDocumentMoniker": "dsnhanvien.xml",
-              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\dsnhanvien.xml",
-              "RelativeToolTip": "dsnhanvien.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2024-12-08T07:40:01.08Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -62,22 +24,10 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAASwMQAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:41:19.582Z",
+              "WhenOpened": "2024-12-09T15:21:19.893Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Study Project\\T\u00EDch h\u1EE3p\\kttx2\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T07:38:37.795Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
