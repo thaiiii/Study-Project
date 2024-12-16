@@ -1,0 +1,83 @@
+﻿@model IEnumerable<_2021604440_HoangXuanQuy_OntapTuan13.Models.HocSinh>
+
+@{
+    ViewBag.Title = "hs";
+}
+
+<div id="delAlert">
+    @if (TempData["DeleteSuccess"] != null)
+    {
+        <div class="alert alert-success">@TempData["DeleteSuccess"]</div>
+    }
+</div>
+
+<h2>Danh sách học sinh</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.Label("Nhập tên hoặc số báo danh: ")
+    @Html.TextBox("keyword")
+    <input type="submit" value="Tìm" class="btn btn-outline-dark" />
+}
+<p>
+    @Html.ActionLink("Thêm mới", "Themdulieu")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.sbd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LopHoc.tenlop)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hoten)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.anhduthi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.diemthi)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.sbd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LopHoc.tenlop)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.hoten)
+            </td>
+            <td>
+                @{ string path = "~/Images/" + item.anhduthi;}
+                <img src="@Url.Content(path)" alt="anh" width="200" height="200" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.diemthi)
+            </td>
+            <td>
+                @Html.ActionLink("Sửa", "Edit", new { id = item.sbd }) |
+                @Html.ActionLink("Xem", "Details", new { id = item.sbd }) |
+                @Html.ActionLink("Xóa", "Xoadulieu", new { id = item.sbd })
+            </td>
+        </tr>
+    }
+
+</table>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        setTimeout(function () {
+            $('#delAlert').fadeOut('slow');
+        }, 3000);
+    });
+
+</script>
+

@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ktratx2.Models.HocSinh>
+
+@{
+    ViewBag.Title = "Xemdanhsach";
+}
+
+<h2>Xem danh sách</h2>
+@using (Html.BeginForm())
+{
+    <p>
+        Tìm học sinh: @Html.TextBox("SearchString")
+        <input type="submit" value="Tìm" />
+    </p>
+}
+
+<p>
+    @Html.ActionLink("Tạo mới", "Themdulieu")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LopHoc.tenlop)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hoten)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.anhduthi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.diemthi)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LopHoc.tenlop)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.hoten)
+            </td>
+            <td>
+                @{
+                    string ImagePath = "~/Images/" + item.anhduthi;
+                }
+                <img src="@Url.Content(ImagePath)" width="100" class="img-thumbnail" />
+                <br />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.diemthi)
+            </td>
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Chinhsua", new { id = item.sbd }) |
+                @Html.ActionLink("Chi tiết", "Chitiet", new { id = item.sbd }) |
+                @Html.ActionLink("Xóa", "Xoadulieu", new { id = item.sbd })
+            </td>
+        </tr>
+    }
+
+</table>
