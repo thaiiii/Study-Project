@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        .banner{
+            background-color: orange;
+            color: white;
+            font-family: Tahoma;
+            font-weight: bold;
+            font-size: 20px;
+            line-height: 80px;
+            text-align:center;
+            justify-content: center;
+        }
+        .link{
+            margin:5px;
+        }
+        .group-link{
+            background-color:red;
+            justify-content:right;
+            text-align: center;
+            display:flex;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">BAI KIEM TRA SO 2</div>
+    <div class="group-link">
+        <p class="link">@Html.ActionLink("Xem danh sach", "Xemdanhsach", "HocSinh", new { area = "" }, new { @class = "nav-link" })</p>
+        <p class="link">|</p>
+        <p class="link">@Html.ActionLink("Them du lieu", "Them du lieu", "HocSinh", new { area = "" }, new { @class = "nav-link" })</p>
+    </div>
+
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })

@@ -1,0 +1,10 @@
+D:\Study Project\Tích hợp\cuoiky21\bin\Debug\cuoiky21.exe.config
+D:\Study Project\Tích hợp\cuoiky21\bin\Debug\cuoiky21.exe
+D:\Study Project\Tích hợp\cuoiky21\bin\Debug\cuoiky21.pdb
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.csproj.AssemblyReference.cache
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.Form1.resources
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.Properties.Resources.resources
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.csproj.GenerateResource.cache
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.csproj.CoreCompileInputs.cache
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.exe
+D:\Study Project\Tích hợp\cuoiky21\obj\Debug\cuoiky21.pdb

@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\demotx2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|d:\\study project\\asp.net\\demotx2\\views\\hocsinh\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:views\\hocsinh\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\views\\hocsinh\\xoadulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:views\\hocsinh\\xoadulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\views\\hocsinh\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:views\\hocsinh\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\views\\hocsinh\\chinhsua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:views\\hocsinh\\chinhsua.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:models\\lophoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|D:\\Study Project\\ASP.net\\demotx2\\models\\hocsinhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780BED54-9881-4A03-B6D2-9CAD60620786}|demotx2.csproj|solutionrelative:models\\hocsinhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chinhsua.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Chinhsua.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Chinhsua.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Chinhsua.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Chinhsua.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:09:36.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chitiet.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Chitiet.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Chitiet.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Chitiet.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Chitiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:09:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Xemdanhsach.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Xemdanhsach.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Xemdanhsach.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Xemdanhsach.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Xemdanhsach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:03:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocSinhController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Controllers\\HocSinhController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HocSinhController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Controllers\\HocSinhController.cs",
+              "RelativeToolTip": "Controllers\\HocSinhController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:00:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Xoadulieu.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Xoadulieu.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Xoadulieu.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Xoadulieu.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Xoadulieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:09:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Create.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Views\\HocSinh\\Create.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T08:08:58.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Models\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Models\\HocSinh.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Models\\HocSinh.cs",
+              "RelativeToolTip": "Models\\HocSinh.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:00:23.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LopHoc.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Models\\LopHoc.cs",
+              "RelativeDocumentMoniker": "Models\\LopHoc.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Models\\LopHoc.cs",
+              "RelativeToolTip": "Models\\LopHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:14:54.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:04:14.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HocSinhDB.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demotx2\\Models\\HocSinhDB.cs",
+              "RelativeDocumentMoniker": "Models\\HocSinhDB.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demotx2\\Models\\HocSinhDB.cs",
+              "RelativeToolTip": "Models\\HocSinhDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:59:35.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<demo2.Models.HocSinh>
+
+@{
+    ViewBag.Title = "Xemdanhsach";
+}
+
+<h2>Danh sach</h2>
+
+@using (@Html.BeginForm())
+            {
+                <p>
+                    Tim hoc sinh: @Html.TextBox("SearchString")
+                    <input type="submit" value="Tim"/>
+                </p>
+            }
+
+
+
+<p>
+    @Html.ActionLink("Tao moi", "Themdulieu")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.LopHoc.tenlop)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.hoten)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.anhduthi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.diemthi)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.LopHoc.tenlop)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hoten)
+        </td>
+        <td>
+            @{ string path = "~/Images/" + item.anhduthi;}
+            <img src="@Url.Content(path)" class="img-thumbnail" width="100" />
+            @Html.DisplayFor(modelItem => item.anhduthi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.diemthi)
+        </td>
+        <td>
+            @Html.ActionLink("Chinh sua", "Chinhsua", new { id=item.sbd }) |
+            @Html.ActionLink("Chi tiet", "Chitiet", new { id=item.sbd }) |
+            @Html.ActionLink("Xoa", "Xoadulieu", new { id=item.sbd })
+        </td>
+    </tr>
+}
+
+</table>

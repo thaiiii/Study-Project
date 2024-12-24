@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\cuoiky0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|d:\\study project\\asp.net\\cuoiky0\\views\\nv\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|solutionrelative:views\\nv\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|d:\\study project\\asp.net\\cuoiky0\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|solutionrelative:models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|d:\\study project\\asp.net\\cuoiky0\\controllers\\nvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11170388-91A9-413F-B161-34678F5A6A8F}|cuoiky0.csproj|solutionrelative:controllers\\nvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\cuoiky0\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "Models\\NhanVien.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\cuoiky0\\Models\\NhanVien.cs",
+              "RelativeToolTip": "Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:30:34.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\cuoiky0\\Views\\nv\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\nv\\Create.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\cuoiky0\\Views\\nv\\Create.cshtml",
+              "RelativeToolTip": "Views\\nv\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAGMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:30:19.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nvController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\cuoiky0\\Controllers\\nvController.cs",
+              "RelativeDocumentMoniker": "Controllers\\nvController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\cuoiky0\\Controllers\\nvController.cs",
+              "RelativeToolTip": "Controllers\\nvController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:29:29.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

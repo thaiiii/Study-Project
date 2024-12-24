@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\demo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7621B6-1B7C-452E-A795-88C9DA9B972D}|demo2.csproj|d:\\study project\\asp.net\\demo2\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7621B6-1B7C-452E-A795-88C9DA9B972D}|demo2.csproj|solutionrelative:controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7621B6-1B7C-452E-A795-88C9DA9B972D}|demo2.csproj|D:\\Study Project\\ASP.net\\demo2\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F7621B6-1B7C-452E-A795-88C9DA9B972D}|demo2.csproj|solutionrelative:views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xemdanhsach.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demo2\\Views\\HocSinh\\Xemdanhsach.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinh\\Xemdanhsach.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demo2\\Views\\HocSinh\\Xemdanhsach.cshtml",
+              "RelativeToolTip": "Views\\HocSinh\\Xemdanhsach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:40:27.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HocSinhController.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\demo2\\Controllers\\HocSinhController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HocSinhController.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\demo2\\Controllers\\HocSinhController.cs",
+              "RelativeToolTip": "Controllers\\HocSinhController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:08:50.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

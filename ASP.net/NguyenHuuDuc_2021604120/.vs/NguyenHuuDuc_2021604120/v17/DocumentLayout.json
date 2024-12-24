@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|d:\\study project\\asp.net\\nguyenhuuduc_2021604120\\nguyenhuuduc_2021604120\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|solutionrelative:nguyenhuuduc_2021604120\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\nguyenhuuduc_2021604120\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|solutionrelative:nguyenhuuduc_2021604120\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\nguyenhuuduc_2021604120\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|solutionrelative:nguyenhuuduc_2021604120\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|d:\\study project\\asp.net\\nguyenhuuduc_2021604120\\nguyenhuuduc_2021604120\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|solutionrelative:nguyenhuuduc_2021604120\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|d:\\study project\\asp.net\\nguyenhuuduc_2021604120\\nguyenhuuduc_2021604120\\views\\hocsinh\\themdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1019736A-3918-41AE-A306-038B75BA8D7B}|NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120.csproj|solutionrelative:nguyenhuuduc_2021604120\\views\\hocsinh\\themdulieu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NguyenHuuDuc_2021604120\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "NguyenHuuDuc_2021604120\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Themdulieu.cshtml",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\HocSinh\\Themdulieu.cshtml",
+              "RelativeDocumentMoniker": "NguyenHuuDuc_2021604120\\Views\\HocSinh\\Themdulieu.cshtml",
+              "ToolTip": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\HocSinh\\Themdulieu.cshtml",
+              "RelativeToolTip": "NguyenHuuDuc_2021604120\\Views\\HocSinh\\Themdulieu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T15:17:42.406Z",
+              "WhenOpened": "2024-12-17T08:36:31.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Xemdanhsach.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\HocSinh\\Xemdanhsach.cshtml",
               "RelativeDocumentMoniker": "NguyenHuuDuc_2021604120\\Views\\HocSinh\\Xemdanhsach.cshtml",
               "ToolTip": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Views\\HocSinh\\Xemdanhsach.cshtml",
               "RelativeToolTip": "NguyenHuuDuc_2021604120\\Views\\HocSinh\\Xemdanhsach.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-16T14:51:30.707Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "NguyenHuuDuc_2021604120\\Controllers\\HocSinhController.cs",
               "ToolTip": "D:\\Study Project\\ASP.net\\NguyenHuuDuc_2021604120\\NguyenHuuDuc_2021604120\\Controllers\\HocSinhController.cs",
               "RelativeToolTip": "NguyenHuuDuc_2021604120\\Controllers\\HocSinhController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwEMAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:22:44.008Z",
               "EditorCaption": ""

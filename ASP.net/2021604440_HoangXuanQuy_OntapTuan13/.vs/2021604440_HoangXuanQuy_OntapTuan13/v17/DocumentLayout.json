@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|d:\\study project\\asp.net\\2021604440_hoangxuanquy_ontaptuan13\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|d:\\study project\\asp.net\\2021604440_hoangxuanquy_ontaptuan13\\models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|solutionrelative:models\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|d:\\study project\\asp.net\\2021604440_hoangxuanquy_ontaptuan13\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|solutionrelative:controllers\\hocsinhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|d:\\study project\\asp.net\\2021604440_hoangxuanquy_ontaptuan13\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2B10F4A-FB3A-4E2B-9807-066A9532D2AB}|2021604440_HoangXuanQuy_OntapTuan13.csproj|D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\views\\hocsinh\\xemdanhsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,6 +47,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Models\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Models\\HocSinh.cs",
+              "ToolTip": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Models\\HocSinh.cs",
+              "RelativeToolTip": "Models\\HocSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:58:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "DeleteSuccess.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Views\\HocSinh\\DeleteSuccess.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinh\\DeleteSuccess.cshtml",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Views\\HocSinh\\DeleteSuccess.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:49:43.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:49:43.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Views\\HocSinh\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinh\\Details.cshtml",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Views\\HocSinh\\Details.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwCEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:49:43.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:49:43.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Xoadulieu.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Views\\HocSinh\\Xoadulieu.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinh\\Xoadulieu.cshtml",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Views\\HocSinh\\Xoadulieu.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:49:43.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:49:43.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Themdulieu.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Views\\HocSinh\\Themdulieu.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinh\\Themdulieu.cshtml",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "Views\\HocSinh\\Themdulieu.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAkwCUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:49:43.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:49:43.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Xemdanhsach.cshtml",
               "DocumentMoniker": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Views\\HocSinh\\Xemdanhsach.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinh\\Xemdanhsach.cshtml",
@@ -115,8 +128,7 @@
               "RelativeToolTip": "Views\\HocSinh\\Xemdanhsach.cshtml",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:49:43.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:49:43.881Z"
             },
             {
               "$type": "Document",
@@ -126,7 +138,7 @@
               "RelativeDocumentMoniker": "Controllers\\HocSinhController.cs",
               "ToolTip": "D:\\Study Project\\ASP.net\\2021604440_HoangXuanQuy_OntapTuan13\\Controllers\\HocSinhController.cs",
               "RelativeToolTip": "Controllers\\HocSinhController.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAAwJ8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wJ8AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:49:43.885Z",
               "EditorCaption": ""
